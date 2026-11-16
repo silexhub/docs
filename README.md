@@ -26,7 +26,9 @@ Official public documentation for **SilexHub**: tools, data, and software connec
 
 People select what to use and authorize access. Agents provide the documented inputs and consume the result. Each released capability should explain its task, output, permissions, usage rules, and failure behavior.
 
-**SilexHub is in early development.** Product documentation and public feedback are available. A production capability catalog, public API, MCP endpoint, and installable SDK have not been released. This repository is readable documentation on GitHub; a separate documentation website has not been published.
+The [SilexHub website](https://silexhub.com/en) is available in English and Chinese. Read the [articles](https://silexhub.com/en/articles) and [product guides](https://silexhub.com/en/docs), explore the [read-only demo](https://silexhub.com/en/demo) without an account, or [sign in with GitHub or Google](https://silexhub.com/en/login). The demo contains synthetic examples.
+
+This repository maintains developer concepts and integration documentation. Paid capabilities, the public API, MCP service and installable SDK have not been released.
 
 ## 中文入口
 
@@ -37,6 +39,6 @@ SilexHub给AI Agent提供工具、数据和软件连接。本仓集中维护公�
 - [Developer hub](https://github.com/silexhub/silexhub): product introduction, public updates, and capability requests.
 - [MCP integration hub](https://github.com/silexhub/mcp-server): connection guidance and integration release requirements.
 - [GitHub organization](https://github.com/silexhub): official repository navigation.
-- [Product domain](https://silexhub.com): the product website address.
+- [Product website](https://silexhub.com/en): samples, articles, guides and account access.
 
 For a concrete capability request, [open an issue in the developer hub](https://github.com/silexhub/silexhub/issues/new). For documentation corrections, see [Contributing](CONTRIBUTING.md).
