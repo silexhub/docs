@@ -10,7 +10,7 @@ Write down the input you have, the result you need, and where that result goes n
 
 ## 2. Check what is available
 
-Use the [availability reference](reference/availability.md). You can now browse the [English or Chinese website](https://silexhub.com/en), read [articles](https://silexhub.com/en/articles) and [product guides](https://silexhub.com/en/docs), and explore the [read-only demo](https://silexhub.com/en/demo) without an account. [GitHub and Google sign-in](https://silexhub.com/en/login) is available for account access.
+Browse the [English or Chinese website](https://silexhub.com/en), read [articles](https://silexhub.com/en/articles) and [product guides](https://silexhub.com/en/docs), and explore the [read-only demo](https://silexhub.com/en/demo) without an account. Check [current availability](reference/availability.md) for account access, checkout and integrations.
 
 Demo records are synthetic and do not run tasks or incur charges. Paid capabilities and runnable API/MCP integrations will be linked only when released and verified.
 

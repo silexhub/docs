@@ -8,7 +8,8 @@
 | Product website | Available in English and Chinese | [English](https://silexhub.com/en) · [中文](https://silexhub.com) |
 | Articles and product guides | Available on the website | [Articles](https://silexhub.com/en/articles) · [Guides](https://silexhub.com/en/docs) |
 | Read-only workspace demo | Public synthetic examples; no account required | [Try the demo](https://silexhub.com/en/demo) |
-| Account sign-in | GitHub and Google available | [Sign in](https://silexhub.com/en/login) |
+| Accounts and workspace | In development on the public site | [Account status](https://silexhub.com/en/login) |
+| Checkout | In development on the public site | [Plan preview](https://silexhub.com/en/pricing) |
 | Developer documentation | Available as GitHub documents | [Documentation home](../README.md) |
 | MCP integration materials | Connection guidance and release requirements available | [MCP integration hub](https://github.com/silexhub/mcp-server) |
 | Questions and capability requests | Available | [Developer hub issues](https://github.com/silexhub/silexhub/issues) |

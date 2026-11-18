@@ -26,7 +26,7 @@ Official public documentation for **SilexHub**: tools, data, and software connec
 
 People select what to use and authorize access. Agents provide the documented inputs and consume the result. Each released capability should explain its task, output, permissions, usage rules, and failure behavior.
 
-The [SilexHub website](https://silexhub.com/en) is available in English and Chinese. Read the [articles](https://silexhub.com/en/articles) and [product guides](https://silexhub.com/en/docs), explore the [read-only demo](https://silexhub.com/en/demo) without an account, or [sign in with GitHub or Google](https://silexhub.com/en/login). The demo contains synthetic examples.
+The [SilexHub website](https://silexhub.com/en) is available in English and Chinese. Read the [articles](https://silexhub.com/en/articles) and [product guides](https://silexhub.com/en/docs), or explore the [read-only demo](https://silexhub.com/en/demo) without an account. The demo contains synthetic examples. See [current availability](reference/availability.md) for account, checkout and integration status.
 
 This repository maintains developer concepts and integration documentation. Paid capabilities, the public API, MCP service and installable SDK have not been released.
 
