@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/silexhub/silexhub/main/assets/symbol.svg" width="88" height="88" alt="SilexHub" />
   <h1>SilexHub Docs</h1>
-  <p><strong>Tools, data, and software connections for AI agents.</strong></p>
+  <p><strong>Professional tools and data for AI</strong></p>
   <p>Understand the capabilities. Design a workflow. Follow verified integrations.</p>
   <p><a href="https://github.com/silexhub/silexhub">Developer hub</a> · <a href="https://github.com/silexhub/docs">Documentation</a> · <a href="https://github.com/silexhub/mcp-server">MCP integration</a> · <a href="https://github.com/silexhub/silexhub/blob/main/README.zh-CN.md">简体中文</a></p>
   <p><img src="https://img.shields.io/badge/Stage-In_development-E65B31?style=flat-square" alt="Stage: in development" /></p>
@@ -9,7 +9,7 @@
 
 ---
 
-Official public documentation for **SilexHub**: tools, data, and software connections for AI agents. These documents explain the product direction and distinguish available public resources from integrations still in development.
+Bring traceable data, domain knowledge, and specialist tools into the AI you already use. These are the public guides for **SilexHub**. You can also explore the [first product preview](https://silexhub-prelaunch.1255829396.workers.dev/en/), with NVIDIA’s geographic revenue and source filings.
 
 ## Read the docs
 
